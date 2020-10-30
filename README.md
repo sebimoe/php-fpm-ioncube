@@ -1,4 +1,4 @@
-# php-fpm-ioncode
+# php-fpm-ioncube
 
 PHP-FPM 7.4 with ionCube loader.
 
